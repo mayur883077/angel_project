@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="6" failed="1" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[2,316]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-06-05T23:29:21 IST" name="Suite" finished-at="2022-06-05T23:32:36 IST" duration-ms="194141">
+    <groups>
+    </groups>
+    <test started-at="2022-06-05T23:29:21 IST" name="Test" finished-at="2022-06-05T23:32:36 IST" duration-ms="194141">
+      <class name="testclasses.verifyUserCheckPortfolioBalance">
+        <test-method is-config="true" signature="BeforeClass()[pri:0, instance:testclasses.verifyUserCheckPortfolioBalance@1972e513]" started-at="2022-06-05T23:30:43 IST" name="BeforeClass" finished-at="2022-06-05T23:31:16 IST" duration-ms="33308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testclasses.verifyUserCheckPortfolioBalance@1972e513]" started-at="2022-06-05T23:31:16 IST" name="BeforeMethod" finished-at="2022-06-05T23:31:16 IST" duration-ms="110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="verifyUserLogin()[pri:1, instance:testclasses.verifyUserCheckPortfolioBalance@1972e513]" started-at="2022-06-05T23:31:16 IST" name="verifyUserLogin" finished-at="2022-06-05T23:32:07 IST" duration-ms="50262" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserLogin -->
+        <test-method is-config="true" signature="AfterMethod(org.testng.ITestResult)[pri:0, instance:testclasses.verifyUserCheckPortfolioBalance@1972e513]" started-at="2022-06-05T23:32:07 IST" name="AfterMethod" finished-at="2022-06-05T23:32:07 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyUserLogin status=SUCCESS method=verifyUserCheckPortfolioBalance.verifyUserLogin()[pri:1, instance:testclasses.verifyUserCheckPortfolioBalance@1972e513] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testclasses.verifyUserCheckPortfolioBalance@1972e513]" started-at="2022-06-05T23:32:07 IST" name="BeforeMethod" finished-at="2022-06-05T23:32:07 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="verifyUserMoveToPortfolioPage()[pri:2, instance:testclasses.verifyUserCheckPortfolioBalance@1972e513]" started-at="2022-06-05T23:32:07 IST" name="verifyUserMoveToPortfolioPage" finished-at="2022-06-05T23:32:22 IST" duration-ms="15251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserMoveToPortfolioPage -->
+        <test-method is-config="true" signature="AfterMethod(org.testng.ITestResult)[pri:0, instance:testclasses.verifyUserCheckPortfolioBalance@1972e513]" started-at="2022-06-05T23:32:22 IST" name="AfterMethod" finished-at="2022-06-05T23:32:22 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyUserMoveToPortfolioPage status=SUCCESS method=verifyUserCheckPortfolioBalance.verifyUserMoveToPortfolioPage()[pri:2, instance:testclasses.verifyUserCheckPortfolioBalance@1972e513] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testclasses.verifyUserCheckPortfolioBalance@1972e513]" started-at="2022-06-05T23:32:22 IST" name="BeforeMethod" finished-at="2022-06-05T23:32:22 IST" duration-ms="26" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="verifyUserMoveToEquityPortfolioPage()[pri:3, instance:testclasses.verifyUserCheckPortfolioBalance@1972e513]" started-at="2022-06-05T23:32:22 IST" name="verifyUserMoveToEquityPortfolioPage" finished-at="2022-06-05T23:32:32 IST" duration-ms="9798" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[2,316]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyUserMoveToEquityPortfolioPage -->
+        <test-method is-config="true" signature="AfterMethod(org.testng.ITestResult)[pri:0, instance:testclasses.verifyUserCheckPortfolioBalance@1972e513]" started-at="2022-06-05T23:32:32 IST" name="AfterMethod" finished-at="2022-06-05T23:32:32 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyUserMoveToEquityPortfolioPage status=SUCCESS method=verifyUserCheckPortfolioBalance.verifyUserMoveToEquityPortfolioPage()[pri:3, instance:testclasses.verifyUserCheckPortfolioBalance@1972e513] output=2,316]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="AfterClass()[pri:0, instance:testclasses.verifyUserCheckPortfolioBalance@1972e513]" started-at="2022-06-05T23:32:32 IST" name="AfterClass" finished-at="2022-06-05T23:32:36 IST" duration-ms="3777" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClass -->
+      </class> <!-- testclasses.verifyUserCheckPortfolioBalance -->
+      <class name="testclasses.VerifyUserAddFund">
+        <test-method is-config="true" signature="BeforeClass()[pri:0, instance:testclasses.VerifyUserAddFund@43df23d3]" started-at="2022-06-05T23:29:22 IST" name="BeforeClass" finished-at="2022-06-05T23:30:02 IST" duration-ms="40216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeClass -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testclasses.VerifyUserAddFund@43df23d3]" started-at="2022-06-05T23:30:02 IST" name="BeforeMethod" finished-at="2022-06-05T23:30:02 IST" duration-ms="315" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="verifyUserLogin()[pri:1, instance:testclasses.VerifyUserAddFund@43df23d3]" started-at="2022-06-05T23:30:02 IST" name="verifyUserLogin" finished-at="2022-06-05T23:30:27 IST" duration-ms="24338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserLogin -->
+        <test-method is-config="true" signature="AfterMethod(org.testng.ITestResult)[pri:0, instance:testclasses.VerifyUserAddFund@43df23d3]" started-at="2022-06-05T23:30:27 IST" name="AfterMethod" finished-at="2022-06-05T23:30:27 IST" duration-ms="107" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyUserLogin status=SUCCESS method=VerifyUserAddFund.verifyUserLogin()[pri:1, instance:testclasses.VerifyUserAddFund@43df23d3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testclasses.VerifyUserAddFund@43df23d3]" started-at="2022-06-05T23:30:27 IST" name="BeforeMethod" finished-at="2022-06-05T23:30:27 IST" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="verifyUserMoveToFundPage()[pri:2, instance:testclasses.VerifyUserAddFund@43df23d3]" started-at="2022-06-05T23:30:27 IST" name="verifyUserMoveToFundPage" finished-at="2022-06-05T23:30:33 IST" duration-ms="6187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserMoveToFundPage -->
+        <test-method is-config="true" signature="AfterMethod(org.testng.ITestResult)[pri:0, instance:testclasses.VerifyUserAddFund@43df23d3]" started-at="2022-06-05T23:30:33 IST" name="AfterMethod" finished-at="2022-06-05T23:30:33 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyUserMoveToFundPage status=SUCCESS method=VerifyUserAddFund.verifyUserMoveToFundPage()[pri:2, instance:testclasses.VerifyUserAddFund@43df23d3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testclasses.VerifyUserAddFund@43df23d3]" started-at="2022-06-05T23:30:33 IST" name="BeforeMethod" finished-at="2022-06-05T23:30:33 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="verifyAddAmountAndMoveToBankingPage()[pri:3, instance:testclasses.VerifyUserAddFund@43df23d3]" started-at="2022-06-05T23:30:33 IST" name="verifyAddAmountAndMoveToBankingPage" finished-at="2022-06-05T23:30:34 IST" duration-ms="1035" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddAmountAndMoveToBankingPage -->
+        <test-method is-config="true" signature="AfterMethod(org.testng.ITestResult)[pri:0, instance:testclasses.VerifyUserAddFund@43df23d3]" started-at="2022-06-05T23:30:34 IST" name="AfterMethod" finished-at="2022-06-05T23:30:34 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyAddAmountAndMoveToBankingPage status=SUCCESS method=VerifyUserAddFund.verifyAddAmountAndMoveToBankingPage()[pri:3, instance:testclasses.VerifyUserAddFund@43df23d3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="BeforeMethod()[pri:0, instance:testclasses.VerifyUserAddFund@43df23d3]" started-at="2022-06-05T23:30:34 IST" name="BeforeMethod" finished-at="2022-06-05T23:30:34 IST" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeMethod -->
+        <test-method signature="verifyUserOnPaymentPage()[pri:4, instance:testclasses.VerifyUserAddFund@43df23d3]" started-at="2022-06-05T23:30:34 IST" name="verifyUserOnPaymentPage" finished-at="2022-06-05T23:30:35 IST" duration-ms="471" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id ='uid']"}
+  (Session info: MicrosoftEdge=102.0.1245.33)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.2.0', revision: '86eb611648'
+System info: host: 'DESKTOP-5M61TFS', ip: '192.168.207.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [afc61f92100f14696e10255b7b357eea, findElement {using=xpath, value=//input[@id ='uid']}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 102.0.1245.33, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:58855}, msedge: {msedgedriverVersion: 102.0.1245.33 (41285f1c5672..., userDataDir: C:\Users\mayur\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58855/devtoo..., se:cdpVersion: 102.0.1245.33, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: afc61f92100f14696e10255b7b357eea]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id ='uid']"}
+  (Session info: MicrosoftEdge=102.0.1245.33)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.2.0', revision: '86eb611648'
+System info: host: 'DESKTOP-5M61TFS', ip: '192.168.207.14', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.14'
+Driver info: org.openqa.selenium.edge.EdgeDriver
+Command: [afc61f92100f14696e10255b7b357eea, findElement {using=xpath, value=//input[@id ='uid']}]
+Capabilities {acceptInsecureCerts: false, browserName: msedge, browserVersion: 102.0.1245.33, javascriptEnabled: true, ms:edgeOptions: {debuggerAddress: localhost:58855}, msedge: {msedgedriverVersion: 102.0.1245.33 (41285f1c5672..., userDataDir: C:\Users\mayur\AppData\Loca...}, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:58855/devtoo..., se:cdpVersion: 102.0.1245.33, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: afc61f92100f14696e10255b7b357eea
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:566)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:384)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:376)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+at com.sun.proxy.$Proxy19.sendKeys(Unknown Source)
+at pomClasess.PaymentPage.enterCredential(PaymentPage.java:54)
+at testclasses.VerifyUserAddFund.verifyUserOnPaymentPage(VerifyUserAddFund.java:85)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserOnPaymentPage -->
+        <test-method is-config="true" signature="AfterMethod(org.testng.ITestResult)[pri:0, instance:testclasses.VerifyUserAddFund@43df23d3]" started-at="2022-06-05T23:30:35 IST" name="AfterMethod" finished-at="2022-06-05T23:30:36 IST" duration-ms="987" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyUserOnPaymentPage status=FAILURE method=VerifyUserAddFund.verifyUserOnPaymentPage()[pri:4, instance:testclasses.VerifyUserAddFund@43df23d3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterMethod -->
+        <test-method is-config="true" signature="AfterClass()[pri:0, instance:testclasses.VerifyUserAddFund@43df23d3]" started-at="2022-06-05T23:30:36 IST" name="AfterClass" finished-at="2022-06-05T23:30:43 IST" duration-ms="6975" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterClass -->
+      </class> <!-- testclasses.VerifyUserAddFund -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
