@@ -9,7 +9,15 @@ public class listenerClass implements ITestListener{
 		System.out.println(result.getName() + "Test started");
 	}
 	
-	public void onTestSuccess(ITestResult result) {
+	
+	
+	
+	
+	
+	
+	
+	
+	public void    onTestSuccess(ITestResult result) {
 		System.out.println(result.getName() + "Test passed");
 	}
 	
